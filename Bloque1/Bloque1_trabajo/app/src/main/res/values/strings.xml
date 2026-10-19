@@ -1,3 +1,55 @@
 <resources>
     <string name="app_name">Bloque1_trabajo</string>
+    <!--Botón opciones-->
+    <string name="Button">Opciones</string>
+
+    <!--Parte de usuario-->
+    <string name="title">My mix</string>
+    <string name="user_n">Creador: Cat of war</string>
+    <string name="songs">10 canciones - 34:26 min</string>
+
+    <!--Barra de abajo-->
+    <string name="abajo_1">Inicio</string>
+    <string name="abajo_2">Buscar</string>
+    <string name="abajo_3">Tu biblioteca</string>
+    <!--Canción 1-->
+    <string name="song1">7Years</string>
+    <string name="artist1">Lukas Graham - 3:57</string>
+
+    <!--Canción 2-->
+    <string name="song2">Adventure of a Lifetime</string>
+    <string name="artist2">Coldplay - 4:23</string>
+
+    <!--Canción 3-->
+    <string name="song3">Eat Your Young</string>
+    <string name="artist3">Hozier - 4:02</string>
+
+    <!--Canción 4-->
+    <string name="song4">Riptide</string>
+    <string name="artist4">Vance Joy - 3:24</string>
+
+    <!--Canción 5-->
+    <string name="song5">Ho Hey</string>
+    <string name="artist5">The Lumineers - 2:43</string>
+
+    <!--Canción 6-->
+    <string name="song6">There is Nothing Holdin Me Back</string>
+    <string name="artist6">Shawn Mendes - 3:19</string>
+
+    <!--Canción 7-->
+    <string name="song7">Hey Brother</string>
+    <string name="artist7">Avicii - 4:15</string>
+
+    <!--Canción 8-->
+    <string name="song8">I Hope It All Works Out</string>
+    <string name="artist8">Mark Ambor - 2:47</string>
+
+    <!--Canción 9-->
+    <string name="song9">Washing Machine Heart</string>
+    <string name="artist9">Mitski - 2:08</string>
+
+    <!--Canción 10-->
+    <string name="song10">House of Memories</string>
+    <string name="artist10">Panic! At The Disco - 3:28</string>
+
 </resources>

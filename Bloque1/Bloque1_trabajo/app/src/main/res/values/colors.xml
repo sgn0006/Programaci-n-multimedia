@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="botones">#FF0000</color>
+    <color name="card">#000000</color>
+    <color name="text">#FFFFFFFF</color>
+
+
 </resources>
