@@ -47,8 +47,8 @@
 
     <androidx.core.widget.NestedScrollView
         android:id="@+id/nestedScrollView"
-        android:layout_width="419dp"
-        android:layout_height="798dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:background="#000000"
         android:fillViewport="true"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout"
@@ -735,7 +735,7 @@
                 android:id="@+id/textView9"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="38dp"
+                android:layout_marginStart="40dp"
                 android:layout_marginTop="8dp"
                 android:backgroundTint="@color/text"
                 android:text="@string/songs"
