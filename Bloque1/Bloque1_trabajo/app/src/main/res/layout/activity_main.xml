@@ -40,9 +40,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:backgroundTint="@color/botones"
-            android:text="@string/abajo_3"
-            app:iconTint="#000000"
-            app:secondaryIconTint="#000000" />
+            android:text="@string/abajo_3" />
     </LinearLayout>
 
     <androidx.core.widget.NestedScrollView
@@ -92,7 +90,7 @@
             <LinearLayout
                 android:id="@+id/linearLayout2"
                 android:layout_width="401dp"
-                android:layout_height="362dp"
+                android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:orientation="vertical"
                 app:layout_constraintBottom_toBottomOf="parent"
