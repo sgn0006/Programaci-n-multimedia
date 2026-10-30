@@ -1,0 +1,8 @@
+<resources>
+    <string name="botonUrl">Url</string>
+    <string name="botonMail">Enviar</string>
+    <string name="botonTlf">Llamar</string>
+    <string name="textoUrl">Introduce una URL</string>
+    <string name="textoMail">Introduce un email</string>
+    <string name="textoTlf">Introduce un telefono</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ejercicio2</string>
+    <string name="botonCrecer"> + Crecer</string>
+    <string name="botonDecrecer"> - Decrecer</string>
+    <string name="color">Color random</string>
+    <string name="log">Log</string>
+    <string name="toast">Toast</string>
+</resources>
