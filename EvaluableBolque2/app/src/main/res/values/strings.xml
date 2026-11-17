@@ -1,6 +1,104 @@
 <resources>
-    <string name="app_name">Game Quiz</string>
+
+    <!-- Ventana inicial -->
+    <string name="app_name">Film Quiz</string>
     <string name="button_play">Jugar</string>
     <string name="button_rank">Ver el ranking</string>
     <string name="hint_name">Tu nombre</string>
+
+
+    <!-- Pregunta 1 -->
+    <string name="ques_num1">Pregunta 1 de 10</string>
+    <string name="pregunta1">¿En cuál de estas películas un actor se rompió el pie durante la grabación?</string>
+    <string name="p1_r1">El señor de los anillos</string>
+    <string name="p1_r2">Matrix</string>
+    <string name="p1_r3">Hasta el último hombre</string>
+    <string name="p1_r4">Sin novedad en el frente</string>
+
+    <!-- Pregunta 2 -->
+    <string name="ques_num2">Pregunta 2 de 10</string>
+    <string name="pregunta2">¿Cuántos rayos cayeron sobre miembros del rodaje durante la grabación de La pasión de Cristo?</string>
+    <string name="p2_r1">3</string>
+    <string name="p2_r2">5</string>
+    <string name="p2_r3">1</string>
+    <string name="p2_r4">ninguno</string>
+
+    <!-- Pregunta 3 -->
+    <string name="ques_num3">Pregunta 3 de 10</string>
+    <string name="pregunta3">¿En qué película un actor se cortó de verdad la mano al golpear un espejo durante una escena?</string>
+    <string name="p3_r1">El club de la lucha</string>
+    <string name="p3_r2">Django desencadenado</string>
+    <string name="p3_r3">American Psycho</string>
+    <string name="p3_r4">El lobo de Wall Street</string>
+
+    <!-- Pregunta 4 -->
+    <string name="ques_num4">Pregunta 4 de 10</string>
+    <string name="pregunta4">¿Qué ocurrió durante el rodaje de Titanic que provocó que muchas personas del equipo acabaran en el hospital?</string>
+    <string name="p4_r1">Una intoxicación alimentaria</string>
+    <string name="p4_r2">Una fuga de gas</string>
+    <string name="p4_r3">Alguien echó alucinógenos en la comida</string>
+    <string name="p4_r4">Una piscina del rodaje tenía demasiados productos químicos</string>
+
+    <!-- Pregunta 5 -->
+    <string name="ques_num5">Pregunta 5 de 10</string>
+    <string name="pregunta5">¿Qué ocurrió durante el rodaje de Poltergeist (1982) que aterrorizó a una de las actrices cuando se enteró?</string>
+    <string name="p5_r1">Utilizaron esqueletos humanos reales en una escena</string>
+    <string name="p5_r2">Una casa del decorado se incendió misteriosamente</string>
+    <string name="p5_r3">Una actriz quedó atrapada dentro de un ataúd</string>
+    <string name="p5_r4">Aparecieron serpientes venenosas en el plató</string>
+
+    <!-- Pregunta 6 -->
+    <string name="ques_num6">Pregunta 6 de 10</string>
+    <string name="pregunta6">¿Qué animal se coló en el rodaje de El padrino y acabó creando una escena legendaria?</string>
+    <string name="p6_r1">Un gato</string>
+    <string name="p6_r2">Una serpiente</string>
+    <string name="p6_r3">Un perro</string>
+    <string name="p6_r4">Una paloma</string>
+
+    <!-- Pregunta 7 -->
+    <string name="ques_num7">Pregunta 7 de 10</string>
+    <string name="pregunta7">¿Qué actor estuvo a punto de ahogarse mientras grababa una escena bajo el agua?</string>
+    <string name="p7_r1">Tom Cruise en Misión imposible</string>
+    <string name="p7_r2">Kate Winslet en Titanic</string>
+    <string name="p7_r3">Johnny Depp en Piratas del Caribe</string>
+    <string name="p7_r4">Daniel Radcliffe en Harry Potter</string>
+
+    <!-- Pregunta 8 -->
+    <string name="ques_num8">Pregunta 8 de 10</string>
+    <string name="pregunta8">¿Qué ocurrió con uno de los actores durante el rodaje de El exorcista de (1973)?</string>
+    <string name="p8_r1">Se rompió una costilla al caerse por unas escaleras</string>
+    <string name="p8_r2">Se quedó encerrado en el decorado durante dos días</string>
+    <string name="p8_r3">Se lesionó la espalda durante una escena de posesión</string>
+    <string name="p8_r4">Perdió temporalmente la voz por gritar demasiado</string>
+
+    <!-- Pregunta 9 -->
+    <string name="ques_num9">Pregunta 9 de 10</string>
+    <string name="pregunta9">¿Qué actor acabó en el hospital tras recibir un golpe de una escoba durante el rodaje de Harry Potter?</string>
+    <string name="p9_r1">Daniel Radcliffe</string>
+    <string name="p9_r2">Rupert Grint</string>
+    <string name="p9_r3">Tom Felton</string>
+    <string name="p9_r4">Matthew Lewis</string>
+
+    <!-- Pregunta 10 -->
+    <string name="ques_num10">Pregunta 10 de 10</string>
+    <string name="pregunta10">¿Qué sucedió durante el rodaje de Apocalypse Now que obligó a interrumpir la producción?</string>
+    <string name="p10_r1">Un huracán destruyó varios decorados</string>
+    <string name="p10_r2">Un elefante escapó y destrozó el equipo de cámaras</string>
+    <string name="p10_r3">Los actores se declararon en huelga por falta de comida</string>
+    <string name="p10_r4">Un incendio destruyó todas las grabaciones</string>
+
+    <!-- Puntos -->
+    <string name="ponit0">Puntos: 0</string>
+    <string name="ponit1">Puntos: 1</string>
+    <string name="ponit2">Puntos: 2</string>
+    <string name="ponit3">Puntos: 3</string>
+    <string name="ponit4">Puntos: 4</string>
+    <string name="ponit5">Puntos: 5</string>
+    <string name="ponit6">Puntos: 6</string>
+    <string name="ponit7">Puntos: 7</string>
+    <string name="ponit8">Puntos: 8</string>
+    <string name="ponit9">Puntos: 9</string>
+
+    <!-- Otros -->
+    <string name="siguiente">Siguiente pregunta</string>
 </resources>

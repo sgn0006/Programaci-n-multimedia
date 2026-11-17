@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/neutral"
+    tools:context=".Ventana2">
+
+
+    <TextView
+        android:id="@+id/txtNumeroPregunta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/ques_num1"
+        android:textColor="@color/terciary"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtPuntuacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/ponit0"
+        android:textColor="@color/primary"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.75"
+        app:layout_constraintStart_toEndOf="@+id/txtNumeroPregunta"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <!-- 100% IA pero se queda de 10  -->
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="0dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtNumeroPregunta">
+
+        <TextView
+            android:id="@+id/txtPregunta"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/fondo_pregunta"
+            android:gravity="center"
+            android:text="@string/ques_1"
+            android:textColor="@color/secondary"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnRespuesta1"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="@color/base"
+        android:text="@string/ans1_q1"
+        android:textColor="@color/primary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+
+    <Button
+        android:id="@+id/btnRespuesta2"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="@color/primary"
+        android:text="@string/ans2_q1"
+        android:textColor="@color/secondary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnRespuesta1" />
+
+    <Button
+        android:id="@+id/btnRespuesta3"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="@color/base"
+        android:text="@string/ans3_q1"
+        android:textColor="@color/primary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnRespuesta2" />
+
+    <Button
+        android:id="@+id/btnRespuesta4"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="@color/primary"
+        android:text="@string/ans4_q1"
+        android:textColor="@color/secondary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnRespuesta3" />
+
+    <Button
+        android:id="@+id/btnSiguiente"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/base"
+        android:text="@string/siguiente"
+        android:textColor="@color/primary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnRespuesta4" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
