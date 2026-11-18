@@ -3,8 +3,10 @@
     <!-- Ventana inicial -->
     <string name="app_name">Film Quiz</string>
     <string name="button_play">Jugar</string>
-    <string name="button_rank">Ver el ranking</string>
     <string name="hint_name">Tu nombre</string>
+    <string name="error_nombre">Introduce tu nombre para jugar</string>
+    <!-- Compartido Vent3 y Main-->
+    <string name="button_rank">Ver el ranking</string>
 
 
     <!-- Pregunta 1 -->
@@ -88,17 +90,19 @@
     <string name="p10_r4">Un incendio destruyó todas las grabaciones</string>
 
     <!-- Puntos -->
-    <string name="ponit0">Puntos: 0</string>
-    <string name="ponit1">Puntos: 1</string>
-    <string name="ponit2">Puntos: 2</string>
-    <string name="ponit3">Puntos: 3</string>
-    <string name="ponit4">Puntos: 4</string>
-    <string name="ponit5">Puntos: 5</string>
-    <string name="ponit6">Puntos: 6</string>
-    <string name="ponit7">Puntos: 7</string>
-    <string name="ponit8">Puntos: 8</string>
-    <string name="ponit9">Puntos: 9</string>
+    <!-- Compartido Vent3 y Vent2-->
+    <string name="puntos">Puntos: %1$d</string>
 
     <!-- Otros -->
     <string name="siguiente">Siguiente pregunta</string>
+
+    <!-- Ventana3 -->
+    <string name="resultadoText">Resultado</string>
+    <string name="volverInicio">Volver al inicio</string>
+    <string name="resultado_jugador">Jugador: %1$s</string>
+    <string name="error_guardar">No se ha podido guardar la partida</string>
+
+    <!-- Ventana4 -->
+    <string name="textRanking">Ranking</string>
+    <string name="sin_partidas">Todavía no hay partidas guardadas</string>
 </resources>

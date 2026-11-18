@@ -58,9 +58,7 @@ public class MainActivity extends AppCompatActivity {
             // Comprobar que el nombre no esté vacío
             if (nombre.isEmpty()) {
 
-                txtNombre.setError(
-                        getString(R.string.error_nombre)
-                );
+                txtNombre.setError(getString(R.string.error_nombre));
 
                 txtNombre.requestFocus();
 

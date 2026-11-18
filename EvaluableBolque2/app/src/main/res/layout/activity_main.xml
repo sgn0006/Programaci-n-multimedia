@@ -40,7 +40,7 @@
         android:layout_marginBottom="50dp"
         android:backgroundTint="@color/primary"
         android:text="@string/button_play"
-        android:textColor="@color/base"
+        android:textColor="@color/terciary"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
