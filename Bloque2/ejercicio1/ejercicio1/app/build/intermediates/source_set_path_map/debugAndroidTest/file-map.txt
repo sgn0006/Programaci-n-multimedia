@@ -1,0 +1,5 @@
+com.example.ejercicio1.test.app-core-1.7.0-0 C:\Users\PC130\.gradle\caches\transforms-4\724dad3617c2b1fa5f8b91fff160df7c\transformed\core-1.7.0\res
+com.example.ejercicio1.test.app-androidTest-1 C:\Users\PC130\Documents\GitHub\2DAM\PMDM\tema2\app\build\generated\res\resValues\androidTest\debug
+com.example.ejercicio1.test.app-mergeDebugAndroidTestResources-2 C:\Users\PC130\Documents\GitHub\2DAM\PMDM\tema2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.ejercicio1.test.app-mergeDebugAndroidTestResources-3 C:\Users\PC130\Documents\GitHub\2DAM\PMDM\tema2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.ejercicio1.test.app-merged_res-4 C:\Users\PC130\Documents\GitHub\2DAM\PMDM\tema2\app\build\intermediates\merged_res\debugAndroidTest

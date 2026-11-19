@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#FF35F692</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">ejercicio2</string>
+    <string name="botonCrecer"> + Crecer</string>
+    <string name="botonDecrecer"> - Decrecer</string>
+    <string name="color">Color random</string>
+    <string name="log">Log</string>
+    <string name="toast">Toast</string>
+    <style name="Base.Theme.Ejercicio2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Ejercicio2" parent="Base.Theme.Ejercicio2"/>
+</resources>

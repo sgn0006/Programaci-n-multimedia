@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color azul
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button_Contar
+id button_Reiniciar
+id textView_Numero
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string boton
+string botonReinicio
+string numero
+style Base.Theme.Ejercicio1
+style Theme.Ejercicio1
+xml backup_rules
+xml data_extraction_rules

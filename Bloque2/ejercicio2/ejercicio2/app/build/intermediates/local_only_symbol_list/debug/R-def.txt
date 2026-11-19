@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color green
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id boton_Color
+id boton_Crece
+id boton_Decrece
+id boton_Log
+id boton_Toast
+id comprobacion
+id pantalla
+id texto
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string botonCrecer
+string botonDecrecer
+string color
+string log
+string toast
+style Base.Theme.Ejercicio2
+style Theme.Ejercicio2
+xml backup_rules
+xml data_extraction_rules
